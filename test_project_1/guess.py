@@ -12,4 +12,4 @@ while True:
     elif input_text == x:
         print('Вы мыслите как компьютер!')
         break
-print('Отличная работа')
+print('Отличная работа. :-)')
